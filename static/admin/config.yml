@@ -11,9 +11,9 @@ collections:
   - name: "post"
     label: "Post"
     description: "Blog entries"
-    folder: "content/blog/{{title}}/"
+    folder: "content/blog/example"
     create: true
-    slug: "{{title}}"
+    slug: "index"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
