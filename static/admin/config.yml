@@ -8,14 +8,14 @@ media_folder: content/assets
 public_folder: /public
 
 collections:
-  - name: "blogs"
-    label: "Blog"
+  - name: "post"
+    label: "Post"
     description: "Blog entries"
     folder: "src/pages/index"
     create: true
     slug: "{{title}}-{{date}}" # this will be filename
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "string"}
-      - {label: "Description", name: "description", widget: "datetime"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "string" }
       - {label: "Body", name: "body", widget: "markdown"}
