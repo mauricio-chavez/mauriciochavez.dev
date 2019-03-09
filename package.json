@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "melomaniac-computer-scientist",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "My stunningblog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Kyle Mathews <mauriciochavez@ciencias.unam.mx>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/mauriciochavez/my-blog/issues"
   },
   "dependencies": {
     "gatsby": "^2.1.27",
@@ -13,6 +13,7 @@
     "gatsby-plugin-feed": "^2.0.14",
     "gatsby-plugin-google-analytics": "^2.0.16",
     "gatsby-plugin-manifest": "^2.0.22",
+    "gatsby-plugin-netlify-cms": "^3.0.12",
     "gatsby-plugin-offline": "^2.0.24",
     "gatsby-plugin-react-helmet": "^3.0.8",
     "gatsby-plugin-sharp": "^2.0.25",
@@ -25,6 +26,7 @@
     "gatsby-source-filesystem": "^2.0.23",
     "gatsby-transformer-remark": "^2.3.1",
     "gatsby-transformer-sharp": "^2.1.15",
+    "netlify-cms": "^2.6.0",
     "prismjs": "^1.15.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",

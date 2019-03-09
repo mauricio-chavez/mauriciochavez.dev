@@ -10,8 +10,7 @@ module.exports = {
       spotify: `12145548904`
     },
   },
-  plugins: [
-    {
+  plugins: [{
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
@@ -28,8 +27,7 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [
-          {
+        plugins: [{
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 590,
@@ -42,10 +40,16 @@ module.exports = {
             },
           },
           {
+            resolve: "gatsby-plugin-netlify-cms",
+            options: {
+              modulePath: `${__dirname}/src/cms/cms.js`,
+            },
+          },
+          {
             resolve: `gatsby-remark-prismjs`,
             options: {
               classPrefix: "language-",
-   
+
               inlineCodeMarker: null,
               aliases: {
                 sh: `bash`,

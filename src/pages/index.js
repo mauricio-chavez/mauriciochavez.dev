@@ -6,6 +6,11 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 
+
+
+export const HomePageTemplate = ({ home, upcomingMeetup = null }) => {
+  return (<>Hols</>);
+}
 class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
