@@ -13,7 +13,7 @@ collections:
     description: "Blog entries"
     folder: "content/blog"
     create: true
-    slug: "{{title}}/index"
+    slug: "{{title}}-{{month}}-{{year}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
