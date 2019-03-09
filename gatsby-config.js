@@ -1,12 +1,13 @@
 module.exports = {
-  pathPrefix: "/my-blog",
   siteMetadata: {
     title: `Melomaniac Computer Scientist`,
     author: `Mauricio Chávez`,
     description: `A blog, made with love by Mauricio Chávez`,
     siteUrl: `https://www.mauriciochavez.dev`,
     social: {
-      twitter: `imbrianstorm`,
+      twitter: `ImBrianstorm`,
+      github: `mauricio-chavez`,
+      spotify: `12145548904`
     },
   },
   plugins: [
