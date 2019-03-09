@@ -11,9 +11,9 @@ collections:
   - name: "post"
     label: "Post"
     description: "Blog entries"
-    folder: "src/pages/index"
+    folder: "content/blog/{{title}}/"
     create: true
-    slug: "{{title}}-{{date}}" # this will be filename
+    slug: "{{title}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
