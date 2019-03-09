@@ -5,7 +5,7 @@ description: This is my first post. Check it out!
 ---
 
 Well, I guess this is my first post. You're probably wondering how I ended up
-here. Let me introduce you:
+here. Let me introduce myself:
 
 I am currently a Computer Science student at 
 (School of Science, UNAM)[http://www.fciencias.unam.mx/] and I'm working as web 
