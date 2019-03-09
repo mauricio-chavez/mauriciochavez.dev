@@ -1,21 +1,29 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+date: "2019-03-08T23:02:03.284Z"
+description: This is my first post. Check it out!
 ---
 
-This is my first post on my new fake blog! How exciting!
+Well, I guess this is my first post. You're probably wondering how I ended up
+here. Let me introduce you:
 
-I'm sure I'll write a lot more interesting things in the future.
+I am currently a Computer Science student at 
+(School of Science, UNAM)[http://www.fciencias.unam.mx/] and I'm working as web 
+developer at a consultory named Klatus. I'm a passionate of web technologies, 
+mostly, back-end technologies.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+> I have worked with Python and Django, Java and, lately, with Javascript, 
+> Express, React and all this stuff.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+I was on my way to become a [React](https://reactjs.org/) ninja, when I 
+read about something called [GatsbyJS](https://www.gatsbyjs.org/). So 
+I read what GatsbyJS is and got so excited!
+I thinked, _WOW, now I can write a blog!_ 😎 I've always wanted to write
+a blog, and now I can do it with the power of React and Javascript.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+I hope to see you around, guys! If you want something, contact me via Twitter.
+I will answer whatever thing you ask me. Complains and suggestions allowed. 🤖
+
+By the way, I leave you a cowboy llama, because is lovely! Sayonara.
+
+![Cowboy Llama](./llama-hero.jpg)
