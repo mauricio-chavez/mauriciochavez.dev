@@ -73,8 +73,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Mauricio's blog`,
-        short_name: `Blog`,
+        name: `Mauricio's stunning blog`,
+        short_name: `Mauricio's Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ffffff`,
