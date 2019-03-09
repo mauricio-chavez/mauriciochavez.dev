@@ -18,11 +18,11 @@ mostly, back-end technologies.
 I was on my way to become a [React](https://reactjs.org/) ninja, when I 
 read about something called [GatsbyJS](https://www.gatsbyjs.org/). So 
 I read what GatsbyJS is and got so excited!
-I thinked, _WOW, now I can write a blog!_ 😎 I've always wanted to write
+I thought, _WOW, now I can write a blog!_ 😎 I've always wanted to write
 a blog, and now I can do it with the power of React and Javascript.
 
 I hope to see you around, guys! If you want something, contact me via Twitter.
-I will answer whatever thing you ask me. Complains and suggestions allowed. 🤖
+I will answer anything you ask me. Complains and suggestions allowed. 🤖
 
 By the way, I leave you a cowboy llama, because is lovely! Sayonara.
 
